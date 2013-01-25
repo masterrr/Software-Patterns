@@ -1,3 +1,4 @@
+.DS_Store
 *.pydevproject
 .project
 .metadata
@@ -25,3 +26,5 @@ local.properties
 # PDT-specific
 .buildpath
 Strategy Pattern/.project
+
+.DS_Store
