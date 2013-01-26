@@ -16,4 +16,4 @@ Folders:
 
 - __Observer Pattern (java.util)__ — pattern implementation using _java.util_ library
 
-- __Observer Pattern (swing)__ - pattern implementation using _awt_ / _swing_ libraries
+- __Observer Pattern (swing)__ — pattern implementation using _awt_ / _swing_ libraries
