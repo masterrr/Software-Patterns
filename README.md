@@ -36,7 +36,9 @@ Folders:
 	
 - __Decoration Pattern (decoration io)__
 
-	Lower Case concrete decorator class written under _FilterReader_ abstract class-decorator for _java.io.Reader_
+	Lower Case concrete __LowerCaseInputStream__ decorator class written under _FilterReader_ abstract class-decorator for _java.io.Reader_
+	
+	![buttons](https://raw.github.com/masterrr/Software-Patterns/master/assets/dp.png)
 	
 
 
