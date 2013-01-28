@@ -1,4 +1,6 @@
 
-public class CarAudi {
-
+public class CarAudi extends Car {
+	public CarAudi() {
+		modelName = "Audi R8";
+	}
 }

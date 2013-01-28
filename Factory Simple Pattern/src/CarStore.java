@@ -7,7 +7,9 @@ public class CarStore {
 	
 	public Car buyCar(String model) {
 		Car car;
-		car.testdrive;
-		car.sell;
+		car = factory.createCar(model);
+		car.testdrive();
+		car.sell();
+		return car;
 	}
 }
