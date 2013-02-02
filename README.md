@@ -40,5 +40,9 @@ Folders:
 	
 	![buttons](https://raw.github.com/masterrr/Software-Patterns/master/assets/dp.png)
 	
+## Simple Factory Pattern
 
+Simple Factory Pattern is just an object for creating other objects.
+
+Folder: __Factory Simple Pattern__ 
 
