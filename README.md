@@ -46,3 +46,9 @@ Simple Factory Pattern is just an object for creating other objects.
 
 Folder: __Factory Simple Pattern__ 
 
+## Factory Pattern
+
+Factory pattern defines a creating objects interface, but gives ability to choose class of objects to its subclasses => factory pattern delegates creating objects to its subclasses.
+
+Folder __Factory Pattern__
+
