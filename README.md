@@ -52,3 +52,9 @@ Factory pattern defines a creating objects interface, but gives ability to choos
 
 Folder __Factory Pattern__
 
+## Singleton Pattern
+
+Singleton pattern defines only one class instance, which provides one global access point to some resources.
+
+Folder __Singleton Pattern__
+
